@@ -32,7 +32,7 @@ This is a simple To-Do List app built using React.js, allowing users to add, com
 
 ## Live Preview
 
-The live version of this app is available [here](#) (link will be added soon).
+The live version of this app is available [here](https://to-do-list-using-reactjs-ngyfiske2-akshay-k-a-devs-projects.vercel.app/).
 
 ## Acknowledgements
 
